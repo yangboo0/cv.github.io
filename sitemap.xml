@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.liewin.win/api/index.html</loc>
+    
+    <lastmod>2017-09-10T07:09:43.938Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.liewin.win/about/index.html</loc>
     
     <lastmod>2017-09-10T06:46:55.772Z</lastmod>
