@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.liewin.win/"/>
-  <updated>2017-09-10T11:37:40.427Z</updated>
+  <updated>2017-09-12T11:45:01.391Z</updated>
   <id>http://blog.liewin.win/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>面试之小结（一）</title>
+    <link href="http://blog.liewin.win/2017/09/12/%E9%9D%A2%E8%AF%95%E4%B9%8B%E5%B0%8F%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://blog.liewin.win/2017/09/12/面试之小结（一）/</id>
+    <published>2017-09-12T10:41:44.000Z</published>
+    <updated>2017-09-12T11:45:01.391Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="序言：面试日期：2017-09-11-总结：2017-09-12-公司类型：ERP软件公司"><a href="#序言：面试日期：2017-09-11-总结：2017-09-12-公司类型：ERP软件公司" class="headerlink" title="序言：面试日期：2017.09.11 总结：2017.09.12 公司类型：ERP软件公司"></a><em><strong>序言</strong></em>：面试日期：2017.09.11 总结：2017.09.12 公司类型：ERP软件公司</h5><hr><h3 id="流程："><a href="#流程：" class="headerlink" title="流程："></a>流程：</h3><ol><li><em>笔试</em>  <blockquote><p>一份6页的卷子，60时分钟做完，里面内容有业务流程、模块、名称解析、数据库、会计、个人规划等。</p></blockquote></li><li><em>面试 </em> <blockquote><p>面试问题的内容主要以笔试卷子内容和个人简历上所提到的内容展开提问。包括个人字迹、笔试卷子内容、简历所写到的内容（如：课程内容、学习状况等）、暑期工（或兼职）、未来规划、薪资问题等。        </p></blockquote></li></ol><h4 id="笔试小结："><a href="#笔试小结：" class="headerlink" title="笔试小结："></a>笔试小结：</h4><blockquote><p>笔试中有部分知识性的问题都已经遗忘,也有部分是没有接触过的或者是极少接触的知识。同时该公司的ERP系统业务流程主要以财务模块为主，而我在完成试题的时候却先把财务这种较为繁琐的问题先放下，打算做完后面的题目再回来做，结果是高估了我自己的速度。以此再收卷时财务题基本为空。还有就是书写方面，字写得不够漂亮。</p><blockquote><p>不足：<br>1.知识<br>2.经营方向<br>3.速度<br>4.字迹   </p></blockquote></blockquote><h4 id="面试小结："><a href="#面试小结：" class="headerlink" title="面试小结："></a>面试小结：</h4><blockquote><p>首次进行面试，整个过程有种谈话节奏自己没有掌握，在谈话过程容易就按照面试官的问题节奏来回答问题。其次在面试过程中稍微有点紧张感。同时应变过程不够流程。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;序言：面试日期：2017-09-11-总结：2017-09-12-公司类型：ERP软件公司&quot;&gt;&lt;a href=&quot;#序言：面试日期：2017-09-11-总结：2017-09-12-公司类型：ERP软件公司&quot; class=&quot;headerlink&quot; title=&quot;序言
+      
+    
+    </summary>
+    
+      <category term="瞎鸡巴杂记" scheme="http://blog.liewin.win/categories/%E7%9E%8E%E9%B8%A1%E5%B7%B4%E6%9D%82%E8%AE%B0/"/>
+    
+    
+      <category term="面试" scheme="http://blog.liewin.win/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Markdown 用法测试篇(一)</title>
     <link href="http://blog.liewin.win/2017/09/10/Markdown%20%E7%94%A8%E6%B3%95%E6%B5%8B%E8%AF%95%E7%AF%87/"/>
     <id>http://blog.liewin.win/2017/09/10/Markdown 用法测试篇/</id>
     <published>2017-09-10T08:03:06.000Z</published>
-    <updated>2017-09-10T11:37:40.427Z</updated>
+    <updated>2017-09-12T11:05:50.756Z</updated>
     
-    <content type="html"><![CDATA[<p><em><strong>序言</strong></em>：在Markdown中空格是一个十分重要的角色。如：建立代码区块，只要简单地缩进 4 个空格。空格空格回车 等于换行。</p><hr><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>这是一个普通段落：</p><pre><code>这是一个代码区块。</code></pre><p>或者使用以前后3个 ` 来表示代码块，格式: ```内容``` 例子如下：  </p><p><code>这是一个代码块</code>  </p><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><pre><code># 这是 H1## 这是 H2###### 这是 H6高阶标题===二阶标题---</code></pre><blockquote><p>任何数量的 <code>=</code> 和 <code>-</code> 都可以有效果。</p><p><code>&gt;</code> 引用板块效果, 一个 <code>&gt;</code> 等于一层板块</p><blockquote><p>这就是板块效果</p></blockquote></blockquote><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><blockquote><p>Markdown 支持有序列表和无序列表。(前面为输出样式，后面为代码)<br>无序列表使用星号、加号或是减号作为列表标记：</p></blockquote><ul><li>Red   <code>*   Red</code>  </li><li>Green <code>*   Green</code>  </li><li>Blue  <code>*   Blue</code>   </li></ul><blockquote><p>等同于：</p></blockquote><ul><li>Red   <code>+   Red</code>    </li><li>Green <code>+   Green</code>  </li><li>Blue  <code>+   Blue</code>   </li></ul><blockquote><p>也等同于：</p></blockquote><ul><li>Red   <code>-  Red</code>    </li><li>Green <code>-  Green</code>  </li><li>Blue  <code>-  Blue</code>   </li></ul><blockquote><p>有序列表则使用数字接着一个英文句点：</p></blockquote><ol><li>Bird   <code>1. Bird</code>    </li><li>McHale <code>2. McHale</code>  </li><li>Parish <code>3. Parish</code> </li></ol><blockquote><p>如果列表项目间用空行分开，在输出 HTML 时 Markdown 就会将项目内容用 </p><p> 标签包起来 </p></blockquote><pre><code>*   Bird  *   Magic</code></pre><p>转换结果：</p><pre><code>&lt;ul&gt;&lt;li&gt;Bird&lt;/li&gt;&lt;li&gt;Magic&lt;/li&gt;&lt;/ul&gt;</code></pre>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>序言</strong></em>：在Markdown中空格是一个十分重要的角色。如：建立代码区块，只要简单地缩进 4 个空格。空格空格回车 等于换行。</p><hr><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>这是一个普通段落：</p><pre><code>这是一个代码区块。</code></pre><p>或者使用以前后3个 ` 来表示代码块，格式: ```内容``` 例子如下：  </p><p><code>这是一个代码块</code>  </p><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><pre><code># 这是 H1## 这是 H2###### 这是 H6高阶标题===二阶标题---</code></pre><blockquote><p>任何数量的 <code>=</code> 和 <code>-</code> 都可以有效果。</p><p><code>&gt;</code> 引用板块效果, 一个 <code>&gt;</code> 等于一层板块</p><blockquote><p>这就是板块效果</p></blockquote></blockquote><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><blockquote><p>Markdown 支持有序列表和无序列表。(前面为输出样式，后面为代码)<br>无序列表使用星号、加号或是减号作为列表标记：</p></blockquote><ul><li>Red   <code>*   Red</code>  </li><li>Green <code>*   Green</code>  </li><li>Blue  <code>*   Blue</code>   </li></ul><blockquote><p>等同于：</p></blockquote><ul><li>Red   <code>+   Red</code>    </li><li>Green <code>+   Green</code>  </li><li>Blue  <code>+   Blue</code>   </li></ul><blockquote><p>也等同于：</p></blockquote><ul><li>Red   <code>-  Red</code>    </li><li>Green <code>-  Green</code>  </li><li>Blue  <code>-  Blue</code>   </li></ul><blockquote><p>有序列表则使用数字接着一个英文句点：</p></blockquote><ol><li>Bird   <code>1. Bird</code>    </li><li>McHale <code>2. McHale</code>  </li><li>Parish <code>3. Parish</code> </li></ol><blockquote><p>如果列表项目间用空行分开，在输出 HTML 时 Markdown 就会将项目内容用 </p><p> 标签包起来 </p></blockquote><pre><code>*   Bird  *   Magic</code></pre><p>转换结果：</p><pre><code>&lt;ul&gt;&lt;li&gt;Bird&lt;/li&gt;&lt;li&gt;Magic&lt;/li&gt;&lt;/ul&gt;</code></pre><p><em>未完待续</em></p>]]></content>
     
     <summary type="html">
     
